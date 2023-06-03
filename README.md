@@ -1,6 +1,6 @@
 # Brave Browser DNR issue
 
-This is a minimal reproductable example of the following `Brave Browser`  issue. https://github.com/brave/brave-browser/issues/30785.
+This is a minimal reproducible example of the following `Brave Browser`  issue. https://github.com/brave/brave-browser/issues/30785.
 
 ## To reproduce
 
