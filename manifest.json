@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Brave-DRN",
+    "name": "Brave-DNR",
     "version": "1.0.0",
     "background": {
         "service_worker": "background.js"
